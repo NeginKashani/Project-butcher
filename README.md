@@ -2,6 +2,7 @@
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 ![butcher1](https://github.com/NeginKashani/Project-butcher/assets/109550062/e6c9a89f-d697-4bd4-a54e-2731c64e6f4c)
 ![butcher2](https://github.com/NeginKashani/Project-butcher/assets/109550062/4d0b8361-2f09-446c-b5bf-ae77bb215262)
+![butcher3](https://github.com/NeginKashani/Project-butcher/assets/109550062/04fcb873-619c-48f0-b0bf-f49e2f5f3a5f)
 
 
 
