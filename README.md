@@ -1,5 +1,7 @@
 # Project-butcher
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
+![butcher1](https://github.com/NeginKashani/Project-butcher/assets/109550062/e6c9a89f-d697-4bd4-a54e-2731c64e6f4c)
+
 
 
 
